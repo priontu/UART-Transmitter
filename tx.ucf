@@ -1,0 +1,14 @@
+NET "switches<0>" LOC="F12"| IOSTANDARD = LVTTL ;
+NET "switches<1>" LOC="G12" | IOSTANDARD = LVTTL ;
+NET "switches<2>" LOC="H14" | IOSTANDARD = LVTTL ;
+NET "switches<3>" LOC="H13" | IOSTANDARD = LVTTL ;
+NET "switches<4>" LOC="J14" | IOSTANDARD = LVTTL ;
+NET "switches<5>" LOC="J13" | IOSTANDARD = LVTTL ;
+NET "switches<6>" LOC="K14" | IOSTANDARD = LVTTL ;
+NET "switches<7>" LOC="K13"| IOSTANDARD = LVTTL ;
+
+NET "button" LOC="M13"| IOSTANDARD = LVTTL ;
+NET "clk" LOC="T9"| IOSTANDARD = LVTTL ;
+NET "rst" LOC="L14"| IOSTANDARD = LVTTL ;
+NET "done" LOC="K12"| IOSTANDARD = LVCMOS33 ;
+NET "txd" LOC="R13"| IOSTANDARD = LVTTL ;
